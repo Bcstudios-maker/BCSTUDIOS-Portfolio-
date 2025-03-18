@@ -1,14 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
-/* Basic Styles */
-* {
-    font-family: "Quicksand";
-    color: #333;
-}
-
+/* Navigation Bar Styles */
 .navbar {
     display: flex;
     flex-direction: row;
-    background-color: #b4b4b44a;
     height: 3.5em;
     align-items: center;
     justify-content: space-between;
